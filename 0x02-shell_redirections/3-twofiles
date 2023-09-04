@@ -1,2 +1,2 @@
 #!/bin/bash
-etc /etc/{passwd,hosts}
+etc /etc/[passwd,hosts]
